@@ -2,7 +2,7 @@
 
 <img width="100%" alt="Aniq Haider" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a6fb8,100:0b2a4a&height=190&section=header&text=Aniq%20Haider&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=20" />
 
-<img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Figtree&weight=600&size=22&pause=1200&color=0A6FB8&center=true&vCenter=true&width=640&lines=Full-stack+engineer;Building+AI-augmented+developer+tooling;Shipping+React+%26+Next.js+to+production" />
+<img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Figtree&weight=600&size=22&pause=1200&color=0A6FB8&center=true&vCenter=true&width=640&lines=Full-stack+engineer;APIs%2C+data+%26+backend+systems;Building+AI-augmented+developer+tooling;Shipping+React+%26+Next.js+to+production" />
 
 <br/>
 
@@ -16,12 +16,23 @@
 
 ## 👋 About me
 
-I'm a software engineer with 3+ years of experience, based in Gurugram, India. I build production web platforms, AI-integrated fintech tools and developer tooling, and I like turning ambiguous requirements into clean, scalable systems.
+I'm a full-stack software engineer with 3+ years of experience, based in Gurugram, India. I own features end to end, from MySQL schemas and backend APIs to the UI, across commerce, fintech and document-processing platforms, and I like turning ambiguous requirements into clean, scalable systems.
 
 - 🛒 Frontend lead on **Ratio**, a multi-tenant commerce platform. I've shipped storefronts for 7+ brands, plus **Cardify**, a drop-in product-card app that is live on 16 storefronts.
 - 🤖 I build AI-augmented engineering tools: multi-agent pipelines, MCP servers and approval-gated automation.
-- 🧱 Across the stack: React and Next.js on the front, Node.js / NestJS / FastAPI services behind it, MySQL schemas, and AWS + Docker deployments.
-- 🌱 Currently deepening my backend skills with Python, FastAPI and PostgreSQL, learning by building ([backend-dojo](https://github.com/AniqHaider/backend-dojo)).
+- ⚙️ Strong on the backend: I design and ship APIs in Node.js / NestJS / Express and Python / FastAPI, model data in MySQL, build SSO and secure auth, and own AWS + Docker deployments.
+- ⚛️ And on the front: React and Next.js (App Router), TypeScript and Tailwind, with a focus on performance (100% Lighthouse scores on multiple production pages).
+
+## ⚙️ Backend & architecture
+
+| | What I've built and owned |
+|---|---|
+| **APIs and services** | Node.js / NestJS / Express and Python / FastAPI services, BFF proxy layers over multi-service backends, and multi-tenant architecture |
+| **Data** | MySQL schema design and query optimisation for a large-scale document-upload platform, plus MongoDB |
+| **Auth and security** | Single Sign-On across frontend and backend, and secure custom document rendering |
+| **AI and document pipelines** | Backend APIs for large-scale PDF processing that structure financial documents for LLM pipelines, working with an AI team to lift response accuracy to 85–90% |
+| **Migrations and integrations** | Discount and reviews migration APIs that pull live data from Shopify into a custom data model with zero loss, plus a custom order-confirmation package, front and back |
+| **Cloud and delivery** | AWS (S3 and deployments), Docker containerisation in production, and CI/CD |
 
 ## 🧰 Tech stack
 
@@ -126,7 +137,7 @@ Paste a URL and get a self-contained Tailwind HTML clone of its homepage, render
 <td width="50%" valign="top">
 
 ### 🥋 [backend-dojo](https://github.com/AniqHaider/backend-dojo)
-A playful local app for learning backend (Python + PostgreSQL) by doing. Svelte + FastAPI, with a growing architecture diagram and an AI tutor.
+A hands-on backend practice app (Python + PostgreSQL) with verified exercises, a growing architecture diagram and an AI tutor. Svelte + FastAPI.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
