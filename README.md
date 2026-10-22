@@ -73,7 +73,7 @@ A drop-in app that swaps a storefront's product cards for one of five designs fr
 
 ![Lit](https://img.shields.io/badge/Lit-324FFF?style=flat-square&logo=lit&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-📖 [Read the write-up](https://aniq-haider.vercel.app/blog/cardify)
+📖 [Read the write-up](https://aniq-haider.vercel.app/blog/cardify) · 💻 [Source (lite version)](https://github.com/AniqHaider/cardify-lite)
 
 </td>
 </tr>
@@ -85,7 +85,7 @@ Five specialised Claude Code agents that turn a live URL or a Figma frame into b
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-📖 [Read the write-up](https://aniq-haider.vercel.app/blog/agent-cloning-pipeline)
+📖 [Read the write-up](https://aniq-haider.vercel.app/blog/agent-cloning-pipeline) · 💻 [Source (generic version)](https://github.com/AniqHaider/site-clone-agents)
 
 </td>
 <td width="50%" valign="top">
